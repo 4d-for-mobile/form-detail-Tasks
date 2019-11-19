@@ -1,5 +1,4 @@
-<p align="center"><img src="https://github.com/4d-for-ios/4d-for-ios-form-detail-Tasks/blob/master/template.gif
-" alt="Tasks" height="auto" width="300"></p>
+<p align="center"><img src="https://github.com/4d-for-ios/4d-for-ios-form-detail-Tasks/blob/master/template.gif" alt="Tasks" height="auto" width="300"></p>
 
 ## Tasks
 
